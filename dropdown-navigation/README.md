@@ -1,5 +1,7 @@
 # Responsive Dropdown Navigation Component
 
+[Sample website using dropdown navigation](https://gbemis-frontend-mentor-projects.vercel.app/snap/index.html)
+
 A customizable, **responsive dropdown navigation** component for websites. It includes a **mobile-friendly menu** and interactive **dropdowns**, perfect for creating modern navigation bars.
 
 ## Features
